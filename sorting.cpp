@@ -1,3 +1,4 @@
+//Ar 110116081
 #include<iostream>	
 	void main()
 	{int arr[]={100,4,3,6,12,-200,7};
