@@ -1,11 +1,11 @@
-//Sibi.A.R 110116081	
+//Ar Sibi 110116081
 #include<iostream>	
 	void main()
 	{int arr[]={100,4,3,6,12,-200,7};
 	sort(arr,0,arr.length-1);
 	la(arr);
 	}
-	public static void merge(int* arr,int left,int middle,int right)
+	 void merge(int* arr,int left,int middle,int right)
 	{	int lsize=middle-left;
 		int rsize=right-middle;
 		int L [1000];
@@ -33,7 +33,7 @@
 			j++;
 		}
 	}
-	public static void sort(int* arr,int l ,int r)
+	 void sort(int* arr,int l ,int r)
 	{
 		if(l<r)
 		{
@@ -44,8 +44,8 @@
 			
 		}
 			}
-	public static void la(int a[] )
+	 void la(int a[] )
 	{
 		for(int i=0;i<a.length;i++)
 			cout<<(a[i])<<" ";	
-			}
+  }
