@@ -7,7 +7,7 @@ Also on [Quora](https://www.quora.com/profile/Ar-Sibi) although I dont write the
 
 Also here's a pic of Pichu just because I **learnt** how to do that 
 
-![PikaPika](http://assets.pokemon.com/static2/_ui/img/chrome/external_link_bumper.png
+![PikaPika](http://assets.pokemon.com/static2/_ui/img/chrome/external_link_bumper.png) 
 
 As a great man once said
 
